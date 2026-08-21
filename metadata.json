@@ -1,0 +1,7 @@
+{
+  "name": "1WithOut",
+  "description": "Knowledge-to-Execution & PWA Lifecycle Engine: Claims discernment, 5-10 step agent skill builder, 6-pillar launch verification matrix, and defense-of-break safety gate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
